@@ -39,5 +39,6 @@
 
 ## 购买
 
-该系统售价为9.9元，包含完整的源码。如有购买意向，请联系QQ：![5ccae642de3c1c6ebc8c64d242ce9a6](https://github.com/jinglinsen/yishengyuyueguahao/assets/107339906/05569bea-7bd3-4aba-a97e-acee75e1c051)
+该系统售价为9.9元，包含完整的源码。如有购买意向，请联系QQ：![image](https://github.com/jinglinsen/yishengyuyueguahao/assets/107339906/f7ca3e8d-5ce6-4f8b-bc88-76bdadf4447f)
+
 。
